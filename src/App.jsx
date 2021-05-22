@@ -1,6 +1,8 @@
+import Board from './Board'
+
 const App = () => {
   return (
-    <h1>yo</h1>
+    <Board />
   );
 }
 
